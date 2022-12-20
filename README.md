@@ -51,7 +51,7 @@ The following tools were used in the project:
 
 ```bash
 # Use this link to predict the value of Asphalt Concrete Mixture dynamic modulus 
-$ [[Python](https://mu-dynamic-modulus-prediction.streamlit.app/)]([https://www.python.org/](https://mu-dynamic-modulus-prediction.streamlit.app/))
+$ [Python](https://mu-dynamic-modulus-prediction.streamlit.app/)]([https://www.python.org/](https://mu-dynamic-modulus-prediction.streamlit.app/))
 	
 
 ```
