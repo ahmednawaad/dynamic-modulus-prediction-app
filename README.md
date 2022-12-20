@@ -42,16 +42,17 @@ The following tools were used in the project:
 
 ## :white_check_mark: Requirements ##
 
-pandas==1.4.4
-streamlit==1.16.0
-catboost==1.0.6
+- pandas==1.4.4
+- streamlit==1.16.0
+- catboost==1.0.6
  
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Use this link to predict the value of Asphalt Concrete Mixture dynamic modulus 
-$ https://mu-dynamic-modulus-prediction.streamlit.app/
+$ [[Python](https://mu-dynamic-modulus-prediction.streamlit.app/)]([https://www.python.org/](https://mu-dynamic-modulus-prediction.streamlit.app/))
+	
 
 ```
 
