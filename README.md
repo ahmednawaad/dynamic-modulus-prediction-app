@@ -1,5 +1,5 @@
-# Modelling-Optimization-Problems-using-pyomo
-Modelling Optimization Problems using pyomo
+# Deploying Machine learning model using streamlit
+Deploying Machine learning model using streamlit
 
 
 <div align="center" id="top"> 
