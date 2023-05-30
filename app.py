@@ -10,14 +10,14 @@ Bailey_based_Model = pickle.load(open("Bailey_method_catboost_model.pkl", "rb"))
 st.set_page_config(page_title='Dynamic Modulus Prediction',)
 
 st.write("""
-        ![](https://www.mans.edu.eg/images/mans_en_logo.png)
+        ![](https://engfac.mans.edu.eg/images/logo22-EN.png)
         ## Highway and Airport Engineering Laboratory
         ---
         #### Predicting Dynamic Modulus in (MPa) of Asphalt Concrete Mixture using Catboost Models
         ---
         """
         )
-st.markdown("""<div style="text-align: justify;">In this page, the prediction of dynamic modulus (E*) of asphalt mixtures is estimated using
+st.markdown("""<div style="text-align: justify;">The prediction of dynamic modulus (E*) of asphalt mixtures is estimated using
 three machine learning Catboost regression algorithms.
 Both asphalt binder properties and mixture volumetrics are characterized in
 the explored models using the same feeding features in the NCHRP 1-37A Witczak Model. However,
